@@ -14,3 +14,9 @@ For this project, our objective is to:
 - Build a model to predict customer churn
 
 Data Source: Kaggle (https://www.kaggle.com/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction)
+
+Overview of data:
+
+<img src="images/pandasprofile.png" width="800" height="400">
+
+<img src="images/Pre-processing.png" width="800" height="400">
