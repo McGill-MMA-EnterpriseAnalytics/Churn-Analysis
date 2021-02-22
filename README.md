@@ -18,3 +18,5 @@ Data Source: Kaggle (https://www.kaggle.com/ankitverma2010/ecommerce-customer-ch
 Overview of data:
 
 <img src="images/pandasprofile.png" width="800" height="400">
+
+<img src="images/Pre-processing.png" width="800" height="400">
